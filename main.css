@@ -60,7 +60,7 @@
 
 .background{
 	background-image:url('bground.jpg');
-	opacity:0.3;
+	opacity:0.8;
 	background-size: cover;
 	background-blend-mode: darken;
 }

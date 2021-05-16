@@ -48,10 +48,9 @@
 	text-align: right;
 	padding: 0 23px;
 }
-
 .background{
-	background-image:url('bground.JPG');
-	background-color:rgba(0,0,0,0.7);
+	background-image:url('bground.jpg');
+	background-color: rgba(0,0,0,0.7);
 	background-size: cover;
 	background-blend-mode: darken;
 }

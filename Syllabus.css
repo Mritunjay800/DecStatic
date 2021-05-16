@@ -141,7 +141,7 @@
 	margin: 3px 3px;
 }
 
-@media only screen and (max-width:1119px){
+@media only screen and (max-width:1123px){
 	.nav-list{
 		flex-direction: column;
 	}
@@ -171,5 +171,17 @@
 
 	.v-class{
 		opacity: 0;
+	}
+
+	.first-half{
+		margin-left: 215px;
+	}
+
+	.text-big{
+	font-size:60px;
+}
+
+	.text-small{
+	font-size:30px;
 	}
 }

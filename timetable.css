@@ -1,5 +1,5 @@
 *{
-	margin: 1px;
+	margin: 0;
 	padding: 0;
 }
 .logo{
@@ -50,15 +50,14 @@
 }
 
 .background{
-	background-image:url('bground.jpg');
+	background-image:url(aa.JPG);
 	background-color: rgba(0,0,0,0.7);
-	background-size: cover;
-	background-blend-mode: darken;
+    background-size: cover;
+    background-blend-mode: darken;
 }
 
 .firstSection{
-	height:114vh;
-	width:66vh;
+	height:100vh;
 	font-size: 300%;
 	color: white;
 }
@@ -173,7 +172,6 @@
 		flex-direction: column;
 		transition: all 0.7s ease-out;
 		height: 447px;
-		width:66vh;
 
 	}
 
@@ -191,7 +189,6 @@
 	}
 	.h-nav{
 		height: 72px;
-		width:66vh;
 	}
 
 	.v-class{
@@ -210,5 +207,6 @@
 	font-size:30px;
 	}
 }
+
 
 

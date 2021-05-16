@@ -50,9 +50,10 @@
 }
 
 .background{
-	background: rgba(0,0,0,0.7)url(img/aa.JPG);
-    background-size: cover;
-    background-blend-mode: darken;
+	background-image:url('bground.jpg');
+	background-color: rgba(0,0,0,0.7);
+	background-size: cover;
+	background-blend-mode: darken;
 }
 
 .firstSection{
